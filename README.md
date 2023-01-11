@@ -20,10 +20,10 @@ The form comprises of 5 buttons which helps in achieving the following:
  Erases the data in th entire database.
  
  
- <img src="Screenshot(15).png" width="700px" height="200px">
+ <img src="Screenshot (15).png" width="700px" height="200px">
  <br><br>
  
-  <img src="Screenshot(16).png" width="700px" height="200px">
+  <img src="Screenshot (16).png" width="700px" height="200px">
  <br><br>
 
   
